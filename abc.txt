@@ -1,0 +1,10 @@
+class hello{
+publioc static void main(Stiring [] om){
+System.out.println("hi i am ");
+}
+}
+
+jkjksjd jkvdkj
+ nkjvf 
+ncxnb 
+ ,m kdk sldvcmnk;cn 
